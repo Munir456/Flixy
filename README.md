@@ -32,9 +32,30 @@ The following **additional** features are implemented:
 
 Describe any challenges encountered while building the app.
 
+There was a challenge actually loading the YouTube player from the app because of the Emulator not properly connecting to the internet after updating... but code should be there
+
+- [x] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Genre
+- [x] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [x] **Use Glide to load and display at least one image per entry**
+- [x] **Click on an entry to view specific details about that entry using Intents**
+
+![ezgif com-video-to-gif-2](https://github.com/Munir456/Flixy/assets/83150680/0afd0c10-de2a-4ac5-a3b6-eb55aec5e1b8)
+
+
+The following **optional** features are implemented:
+
+- [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
+- [ ] **Add rounded corners to the images using the Glide transformations**
+- [ ] **Implement a shared element transition when user clicks into the details of a movie**
+
+The following **additional** features are implemented:
+
+- [x] List anything else that you can get done to improve the app functionality!
+Sort by cast!
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Munir Adeyola]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
